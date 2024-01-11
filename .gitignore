@@ -1,0 +1,13 @@
+gitattributes
+models/
+tmp/
+*.bak
+*.pkl
+bears/
+__pycache__/
+.last_checked
+.gitconfig
+.ipynb_checkpoints/
+bird_or_not/
+foods/
+messi_or_not/

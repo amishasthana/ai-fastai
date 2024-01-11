@@ -1,0 +1,6 @@
+https://mybinder.org/v2/gh/amishasthana/ai-fastai/HEAD?labpath=%2Fvoila%2Frender%2F02_productionFoodClassifier.ipynb
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/amishasthana/ai-fastai/HEAD?labpath=%2Fvoila%2Frender%2F02_productionFoodClassifier.ipynb)
+
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/amishasthana/ai-fastai/HEAD?labpath=%2Fvoila%2Frender%2F02_productionFoodClassifier.ipynb
